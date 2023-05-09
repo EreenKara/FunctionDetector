@@ -1,0 +1,21 @@
+Fonksiyon: Motor
+
+// false yapılıyor
+
+
+-------------------
+
+Fonksiyon: getMotorNo
+
+// motor no getir
+
+
+-------------------
+
+Fonksiyon: toString
+
+// durum belirlenmesi //
+
+
+-------------------
+
