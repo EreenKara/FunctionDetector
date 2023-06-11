@@ -4,5 +4,5 @@ Principles of Programming Languages First Assignment : detect all comments, comm
 # Requirements for Assignment
 [What We Were Asked For](Odev-1.pdf)
 
-# Benim Odev Hakkinda Hazirladigim Raport
+# My Report That I Prepared About Assignment
 [My Report About Assignment](Rapor.pdf)
